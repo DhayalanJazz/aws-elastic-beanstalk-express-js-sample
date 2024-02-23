@@ -1,4 +1,5 @@
 # Application Architecture
+ A continuous delivery pipeline that will automatically deploy the web application whenever the source code is updated.
  This application uses GitHub, AWS Elastic Beanstalk, AWS CodeBuild, and AWS CodePipeline.
  
  ![Application Architecture](./Images/Application_architecture.png)
