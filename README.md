@@ -1,6 +1,7 @@
 # Application Architecture
  This application uses GitHub, AWS Elastic Beanstalk, AWS CodeBuild, and AWS CodePipeline.
- 
+
+![Application_architecture](./Images/Application_architecture)
 
 ## AWS Elastic Beanstalk Node.js Sample App
 
