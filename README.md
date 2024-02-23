@@ -4,6 +4,14 @@
  
  ![Application Architecture](./Images/Application_architecture.png)
 
+### High Level Implementation
+
+1.) Set up a GitHub repository to store the application code.
+2.) Create the environment where the web application will be deployed using AWS Elastic Beanstalk.
+3.) Configure and start the build process for the application using AWS CodeBuild.
+4.) Create a pipeline to automatically build and deploy the application using AWS CodePipeline.
+5.) Add a review stage to the pipeline and test the pipeline.
+ 
 ## AWS Elastic Beanstalk Node.js Sample App
 
 This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path.
